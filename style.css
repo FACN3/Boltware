@@ -3,6 +3,7 @@ body{
   padding: 0;
   margin: 0;
 }
+
 .container{
       border-radius: 3px;
       height: 700px;
@@ -10,44 +11,54 @@ body{
       background-color: #e0e0d1;
 }
 
+/*****************************/
+/***********NAVBAR***********/
+/***************************/
 
 .navbar ul img{
   width: 80px;
   height: 50px;
   margin: -34px;
 }
-.navbar ul {
+
+.navbar ul{
     margin: 0;
     width: auto;
     list-style-type: none;
     overflow: hidden;
     background-color: #333;
 }
+
 li{
   float: right;
 }
-li a {
+
+li a{
     padding: 15px;
     text-decoration: none;
     display: block;
     color: #fff;
 }
-li a:hover {
+
+li a:hover{
     background-color: #000;
 }
+
+/******************************/
+/***********HOMEBAR**********/
+/**************************/
 
 .container .home{
   background-color: white;
   text-align: center;
   padding-top: 100px;
-  height: 400px;
-
+  height: 250px;
 }
 
 .home h1 {
 
-
 }
+
 .home button {
   background-color: grey;
   border:
@@ -60,10 +71,23 @@ li a:hover {
   margin: 5px;
   border-radius: 3px;
 }
+
 .home button:hover {
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
-
 }
+
+/****************************/
+/*********ABOUT US**********/
+/**************************/
+
+.about{
+  
+}
+
+
+/*****************************/
+/***********FOOTER***********/
+/***************************/
 
 /*.footer {
   position:absolute;

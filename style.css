@@ -14,7 +14,6 @@ body{
 /***************************/
 .navbar{
   position: fixed;
-  top: 0px;
   width: 100%;
 }
 .navbar ul img{
@@ -68,6 +67,7 @@ li a:hover{
 }
 .home p{
   font-family: 'Contrail One', cursive;
+  font-size: 40px;
   color: #FFDC00;
   margin: 50px;
 

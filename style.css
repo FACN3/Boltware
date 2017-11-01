@@ -87,13 +87,58 @@ li a:hover{
 /*********ABOUT US**********/
 /**************************/
 
+.aboutus{
+  background-color: #FFDC00;
+  padding: 20px;
+}
+
+.aboutus h1{
+  padding-top: 10px;
+  margin-top: 10px ;
+  text-align: center;
+  font-family: 'Contrail One', cursive;
+  font-size: 70px;
+
+}
+
+.aboutus p{
+  text-align: center;
+  font-family: 'Contrail One', cursive;
+}
+
+.aboutus .aboutusSection{
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.aboutus .aboutimg img{
+  width: 200px;
+  height: 200px;
+
+}
+.descriptionabout {
+    padding: 15px;
+    font-family: 'Contrail One', cursive;
+}
+
+.aboutusSection .aboutustitles{
+font-family: 'Contrail One', cursive;
+font-size: 30px;
+}
+
+
+
+/** end of about us **/
+
+
 
 /****************************/
 /*************TEAM**********/
 /**************************/
 
 .team{
-  background-color: #FFDC00;
+  background-color: #000;
   padding: 20px;
 }
 
@@ -102,12 +147,15 @@ li a:hover{
   margin: 0 ;
   text-align: center;
   font-family: 'Contrail One', cursive;
+  color: #FFDC00;
   font-size: 70px;
+
 }
 
 .team p{
   text-align: center;
   font-family: 'Contrail One', cursive;
+  color: #FFDC00;
 }
 
 .team .imagesInTeamSection{
@@ -124,6 +172,8 @@ li a:hover{
 .description {
     padding: 15px;
     font-family: 'Contrail One', cursive;
+    color: #FFDC00;
+    font-size: 25px;
 }
 
 /*****************************/

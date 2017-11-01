@@ -186,6 +186,7 @@ font-size: 30px;
   text-align: center;
   padding: 20px;
 
+
 }
 
 input::placeholder{
@@ -219,11 +220,15 @@ margin-bottom: 10px;
 /***********FOOTER***********/
 /***************************/
 
-/*.footer {
-  position:absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  width: auto;
-  background-color: #333;
-}*/
+.footer {
+background-color: black;
+height: 50px;
+margin: 0;
+padding: 0;
+color: #FFDC00;
+
+}
+.footer p{
+margin: 0;
+padding:15px;
+font-family: 'Contrail One', cursive;

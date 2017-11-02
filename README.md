@@ -13,7 +13,8 @@ A one page example website to show our design and build skills with .html and .c
 
 How?
 We’ve used Github to complete and manage our project, Atom for coding and Google Development tools to check accessibility and mobile responsiveness. Also a shout out to Neil for the load of his camera!
-relates #10
+
+
 Building the site:
 We didn't split the work , the 3 of us worked with a single laptop as a team and we took turns in building the website .
 we invested a lot of time making the website look good in terms of colors and dimensions . 

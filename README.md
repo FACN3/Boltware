@@ -1,8 +1,6 @@
 
 # Boltware
 
-![alt text](https://cdn.pixabay.com/photo/2016/02/16/19/57/lightning-bolt-1203953_960_720.png)
-
 # Why?
 
 We want the world to know who we are.
@@ -47,7 +45,7 @@ Marlen : Head of Development Department :fist:
 Haitham : Head of Design Department :+1:
 
 
-
+![alt text](https://cdn.pixabay.com/photo/2016/02/16/19/57/lightning-bolt-1203953_960_720.png)
 
 
 

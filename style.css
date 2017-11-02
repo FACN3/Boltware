@@ -1,3 +1,15 @@
+
+@font-face {
+font-family: ContrailOne;
+src: url('Assets/Fonts/ContrailOne-Regular.ttf');
+}
+
+@font-face {
+  font-family: FasterOne;
+  src: url('Assets/Fonts/FasterOne-Regular.ttf');
+}
+
+
 body{
   padding: 0;
   margin: 0;
@@ -40,7 +52,7 @@ li a{
     text-decoration: none;
     display: block;
     color: #f4c63e;
-    font-family: 'Contrail One', cursive;
+    font-family: ContrailOne, cursive;
     font-size: 20px;
 }
 
@@ -59,14 +71,14 @@ li a:hover{
   height: 400px;
 }
 .home h1 {
-  font-family: 'Faster One', cursive;
+  font-family: FasterOne, cursive;
   font-size: 100px;
   color:  #FFDC00;
   margin: 0;
   padding: 0;
 }
 .home p{
-  font-family: 'Contrail One', cursive;
+  font-family: ContrailOne, cursive;
   font-size: 40px;
   color: #FFDC00;
   margin: 50px;
@@ -76,7 +88,7 @@ li a:hover{
   background-color: #FFDC00;
   padding: 15px 32px;
   text-align: center;
-  font-family: 'Contrail One', cursive;
+  font-family: ContrailOne, cursive;
   font-size: 16px;
   cursor: pointer;
   margin: 5px;
@@ -100,14 +112,14 @@ li a:hover{
   padding-top: 10px;
   margin-top: 10px ;
   text-align: center;
-  font-family: 'Contrail One', cursive;
+  font-family: ContrailOne, cursive;
   font-size: 70px;
 
 }
 
 .aboutus p{
   text-align: center;
-  font-family: 'Contrail One', cursive;
+  font-family: ContrailOne, cursive;
 }
 
 .aboutus .aboutusSection{
@@ -123,11 +135,11 @@ li a:hover{
 }
 .descriptionabout {
     padding: 15px;
-    font-family: 'Contrail One', cursive;
+    font-family: ContrailOne, cursive;
 }
 
 .aboutusSection .aboutustitles{
-font-family: 'Contrail One', cursive;
+font-family: ContrailOne, cursive;
 font-size: 30px;
 }
 
@@ -150,7 +162,7 @@ font-size: 30px;
   padding-top: 10px;
   margin: 0 ;
   text-align: center;
-  font-family: 'Contrail One', cursive;
+  font-family: ContrailOne, cursive;
   color: #FFDC00;
   font-size: 70px;
 
@@ -158,7 +170,7 @@ font-size: 30px;
 
 .team p{
   text-align: center;
-  font-family: 'Contrail One', cursive;
+  font-family: ContrailOne, cursive;
   color: #FFDC00;
 }
 
@@ -175,7 +187,7 @@ font-size: 30px;
 }
 .description {
     padding: 15px;
-    font-family: 'Contrail One', cursive;
+    font-family: ContrailOne, cursive;
     color: #FFDC00;
     font-size: 25px;
 }
@@ -184,7 +196,7 @@ font-size: 30px;
 /***********CONTACT***********/
 /***************************/
 .contact{
-  font-family: 'Contrail One', cursive;
+  font-family: ContrailOne, cursive;
   font-size: 25px;
   background-color: #FFDC00;
   text-align: center;
@@ -194,14 +206,14 @@ font-size: 30px;
 }
 
 input::placeholder{
-  font-family: 'Contrail One', cursive;
+  font-family: ContrailOne, cursive;
   font-size: 15px;
   color: #FFDC00;
 
 }
 
 textarea::placeholder{
-  font-family: 'Contrail One', cursive;
+  font-family: ContrailOne, cursive;
   font-size: 15px;
   color: #FFDC00;
 }
@@ -210,10 +222,21 @@ background-color: black;
 border-radius: 10px;
 padding: 10px;
 margin-bottom: 10px;
+font-family: ContrailOne, cursive;
+font: #FFDC00;
+}
+
+.contact input[type=text]:focus, textarea {
+background-color: black;
+border-radius: 10px;
+padding: 10px;
+margin-bottom: 10px;
+font-family: ContrailOne, cursive;
+color: #FFDC00;
 }
 
 .contact #button{
-  font-family: 'Contrail One', cursive;
+  font-family: ContrailOne, cursive;
   font-size: 30px;
   color: #FFDC00;
 }
@@ -234,4 +257,4 @@ color: #FFDC00;
 .footer p{
 margin: 0;
 padding:15px;
-font-family: 'Contrail One', cursive;
+font-family: ContrailOne, cursive;

@@ -30,7 +30,7 @@ Website : https://facn3.github.io/Boltware/
 
 Future goals : We are expanding very quickly so We aspire to open 4 more branches in the next 3 years to be able to offer our services to more clients and let them enjoy our services
 
-Our Team : 
+Our Team :
 
 Nicholas : CEO :bowtie:
 

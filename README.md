@@ -19,6 +19,7 @@ We didn't split the work , the 3 of us worked with a single laptop as a team and
 we invested a lot of time making the website look good in terms of colors and dimensions . 
 
 WHAT DO OUR CUSTOMERS SAY :sunglasses: :
+
 "The engineers at Boltware are setting a new bar for offshore quality and reliability. They bring superior productivity and behave more like thought partners than contractors for hire. " THE REVIEWER CTO, SaaS Provider
 
 "They have a solid understanding of the mechanics we use." THE REVIEWER Founder, Project Travel
